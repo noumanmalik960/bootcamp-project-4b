@@ -30,23 +30,31 @@ export const Home = () => {
                     Grow your bussiness with{" "}
                     <strong className="brand-name">Jian Yang</strong>
                   </h1>
-                  <h2 className="my-3">We are a team of sleep deprived coders!</h2>
+                  <h2 className="my-3">
+                    We are a team of sleep deprived coders!
+                  </h2>
                   <div className="mt-3">
                     <Link to="/" className="btn-get-started">
                       Get Started
                     </Link>
                   </div>
                 </div>
-                <div ref={ref} className="col-lg-6 mt-3 order-1 order-lg-2 header-img">
+                <div
+                  ref={ref}
+                  className="col-lg-6 mt-3 order-1 order-lg-2 header-img"
+                >
                   <img
                     src={home}
                     className="img-fluid animate"
                     alt="home img"
                   />
                 </div>
+                
               </div>
+              <h1 style={{marginTop: "50px", textAlign: 'center'}}><i>I will add remaining pages and footer later...</i></h1>
             </div>
           </div>
+
         </div>
       </section>
     </>
