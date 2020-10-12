@@ -57,15 +57,15 @@ export const Navbar = () => {
                         About
                       </NavLink>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                       <NavLink
                         activeClassName="menu_active"
                         className="nav-link"
                         to="contact"
                       >
                         Contact
-                      </NavLink>
-                    </li>
+                      </NavLink> */}
+                    {/* </li> */}
                   </ul>
                 </div>
               </div>
