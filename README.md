@@ -1,3 +1,7 @@
+This is an animated react site using "useRef" hook and WAAPI .
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
