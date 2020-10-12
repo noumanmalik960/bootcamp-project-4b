@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import useWebAnimations from "@wellyshen/use-web-animations";
 
 export const Home = () => {
-  const { ref, playState, getAnimation } = useWebAnimations({
+  const { ref } = useWebAnimations({
     keyframes: [
       { transform: "translateY(0px)" },
       { transform: "translateY(40px)" },
