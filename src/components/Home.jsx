@@ -49,12 +49,9 @@ export const Home = () => {
                     alt="home img"
                   />
                 </div>
-                
               </div>
-              <h1 style={{marginTop: "50px", textAlign: 'center'}}><i>I will add remaining pages and footer later...</i></h1>
             </div>
           </div>
-
         </div>
       </section>
     </>

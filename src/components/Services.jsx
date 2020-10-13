@@ -2,8 +2,7 @@ import React from 'react'
 
 export const Services = () => {
     return (
-        <div style={{ textAlign: "center", paddingTop: '20px'}}>
-            Services Page! Coming soon...
-        </div>
+        <h2 style={{fontWeight: "lighter", marginTop: "50px", textAlign: 'center'}}>I will add remaining pages and footer later.</h2>
+
     )
 }
