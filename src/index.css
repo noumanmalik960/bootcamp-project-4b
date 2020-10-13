@@ -7,8 +7,8 @@
   font-family: "Muli", sans-serif;
 }
 
-.navbar {
-  background-color: #fff !important;
+.header-container .navbar {
+  background-color: white !important;
 }
 
 .navbar-brand {
